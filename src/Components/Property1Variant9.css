@@ -1,0 +1,52 @@
+
+.Property1Variant9_Property1Variant9 {
+	width: 55px;
+	height: 50px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 16px;
+	padding-right: 12px;
+	padding-bottom: 16px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+}
+.Property1Variant9_Property1Variant9 .Frame2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 10px;
+	width: 109.09090909090908%;
+	height: 120%;
+}
+.Property1Variant9_Property1Variant9 .Frame2 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 60px;
+	height: 60px;
+	background: rgba(127,94,228,1.00);
+	border-radius: 12px;
+}
+.Property1Variant9_Property1Variant9 .Frame2 .icons8link1 {
+	position: absolute;
+	left: 15px;
+	top: 15px;
+	width: 30px;
+	height: 30px;
+}
+.Property1Variant9_Property1Variant9 .Frame2 .icons8link1 .Vector {
+	position: absolute;
+	left: 10.9200439453125px;
+	top: 0.17926025390625px;
+	width: 63.00781250000001%;
+	height: 67.73325602213541%;
+}
+.Property1Variant9_Property1Variant9 .Frame2 .icons8link1 .Vector_1 {
+	position: absolute;
+	left: 0.1754150390625px;
+	top: 9.500770568847656px;
+	width: 63.01391601562501%;
+	height: 67.73445129394531%;
+}

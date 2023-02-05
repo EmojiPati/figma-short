@@ -1,0 +1,57 @@
+
+.Frame1_Frame1 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	display: flex;
+	padding-top: 249.12px;
+	padding-right: 256.04px;
+	padding-bottom: 249.12px;
+	padding-left: 256.04px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(127,94,228,1.00);
+	border-radius: 6920px;
+}
+.Frame1_Frame1 .Frame2 {
+	position: relative;
+	flex: none;
+	margin-right: 69.2px;
+	width: 78.84612450232873%;
+	height: 79.22703102590957%;
+}
+.Frame1_Frame1 .Frame2 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1134.8795776367188px;
+	height: 1134.879683227539px;
+	background: rgba(127,94,228,1.00);
+	border-radius: 226.97594192504883px;
+}
+.Frame1_Frame1 .Frame2 .icons8link1 {
+	position: absolute;
+	left: 283.7195776367187px;
+	top: 283.71999999999997px;
+	width: 567.4399999999999px;
+	height: 567.4398944091797px;
+}
+.Frame1_Frame1 .Frame2 .icons8link1 .Vector {
+	position: absolute;
+	left: 206.5483154296875px;
+	top: 3.390732421875px;
+	width: 63.007708293635666%;
+	height: 67.73323761232658%;
+}
+.Frame1_Frame1 .Frame2 .icons8link1 .Vector_1 {
+	position: absolute;
+	left: 3.3180859375px;
+	top: 179.70374999999999px;
+	width: 63.01388624237805%;
+	height: 67.73442854242623%;
+}

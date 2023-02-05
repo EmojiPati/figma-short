@@ -1,0 +1,368 @@
+
+.HomeScreenshot_HomeScreenshot {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 25px;
+}
+.HomeScreenshot_HomeScreenshot .SubHeader1 {
+	position: absolute;
+	left: 483.75px;
+	top: 950px;
+	width: 471.25px;
+	height: 492.5px;
+}
+.HomeScreenshot_HomeScreenshot .SubHeader1 .GainFullControl {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 471.25px;
+	height: 121.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 65px;
+	font-weight: 700;
+	line-height: 64.15499687194824px;
+}
+.HomeScreenshot_HomeScreenshot .SubHeader1 .Line1 {
+	position: absolute;
+	left: 36.25px;
+	top: 201.25px;
+	width: 0px;
+	height: 291.25px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.HomeScreenshot_HomeScreenshot .SubHeader1 .Line2 {
+	position: absolute;
+	left: 465px;
+	top: 201.25px;
+	width: 0px;
+	height: 291.25px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.HomeScreenshot_HomeScreenshot .PlatformsEasytouseonEachPlatform {
+	position: absolute;
+	left: 112.5px;
+	top: 1588.75px;
+	width: 597.5px;
+	height: 240px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 65px;
+	font-weight: 700;
+	line-height: 64.15499687194824px;
+}
+.HomeScreenshot_HomeScreenshot .CommunityWebelieveinthepowerofCommunity {
+	position: absolute;
+	left: 112.5px;
+	top: 2266.25px;
+	width: 597.5px;
+	height: 348.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 65px;
+	font-weight: 700;
+	line-height: 64.15499687194824px;
+}
+.HomeScreenshot_HomeScreenshot .HeroContent {
+	position: absolute;
+	left: 152.5px;
+	top: 207.5px;
+	width: 1212.5px;
+	height: 615px;
+}
+.HomeScreenshot_HomeScreenshot .HeroContent .Frame12 {
+	position: absolute;
+	left: 597.5px;
+	top: 0px;
+	width: 615px;
+	height: 615px;
+}
+.HomeScreenshot_HomeScreenshot .HeroContent .Frame12 .mobileinhand1 {
+	position: absolute;
+	left: 42.5px;
+	top: 140px;
+	width: 557.5px;
+	height: 410px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomeScreenshot_HomeScreenshot .HeroContent .Frame12 .Ellipse1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 615px;
+	height: 615px;
+	border-radius: 50%;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 {
+	position: absolute;
+	left: 112.5px;
+	top: 305px;
+	width: 610px;
+	height: 482.5px;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .ShortenLinksWithaClick {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 471.25px;
+	height: 157.5px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 65px;
+	font-weight: 700;
+	line-height: 79.23500061035156px;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Pasteinanylongurlmakeitsharabletrackableandcustomizablewithjustafewclicks {
+	position: absolute;
+	left: 0px;
+	top: 186.25px;
+	width: 471.25px;
+	height: 93.75px;
+	color: rgba(0,0,0,0.60);
+	font-family: Montserrat;
+	font-size: 22.5px;
+	font-weight: 500;
+	line-height: 31.25px;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Frame7 {
+	position: absolute;
+	left: 0px;
+	top: 338.75px;
+	width: 610px;
+	height: 91.25px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 18.75px;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Frame7 .Frame6 {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 188.75px;
+	height: 100%;
+	display: flex;
+	padding-top: 5px;
+	padding-right: 37.5px;
+	padding-bottom: 5px;
+	padding-left: 37.5px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(127,94,228,1.00);
+	border-radius: 15px;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Frame7 .Frame6 .Shorten {
+	position: relative;
+	flex: none;
+	margin-right: 13.75px;
+	width: 95px;
+	height: 27.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 22.5px;
+	font-weight: 700;
+	line-height: 27.427499294281006px;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Frame7 .Frame6 .icons8compress2 {
+	position: relative;
+	flex: none;
+	margin-right: 13.75px;
+	width: 22.5px;
+	height: 22.5px;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Frame7 .Frame6 .icons8compress2 .Vector {
+	position: absolute;
+	left: 2.8125px;
+	top: 12.890625px;
+	width: 30.208333333333332%;
+	height: 30.208333333333332%;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Frame7 .Frame6 .icons8compress2 .Vector_1 {
+	position: absolute;
+	left: 13.359375px;
+	top: 2.8125px;
+	width: 28.125%;
+	height: 28.125%;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Frame7 .Frame6 .icons8compress2 .Vector_2 {
+	position: absolute;
+	left: 3.28125px;
+	top: 12.65625px;
+	width: 29.166666666666668%;
+	height: 29.166666666666668%;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Frame7 .Frame6 .icons8compress2 .Vector_3 {
+	position: absolute;
+	left: 12.1875px;
+	top: 3.75px;
+	width: 29.166666666666668%;
+	height: 29.166666666666668%;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .Frame7 .httpsreactjsorg {
+	position: absolute;
+	left: 46.25px;
+	top: 31.875px;
+	width: 198.75px;
+	height: 27.5px;
+	color: rgba(0,0,0,0.60);
+	font-family: Montserrat;
+	font-size: 22.5px;
+	font-weight: 500;
+	line-height: 27.427499294281006px;
+}
+.HomeScreenshot_HomeScreenshot .Frame11 .NewFeaturesComingSoon {
+	position: absolute;
+	left: 0px;
+	top: 451.25px;
+	width: 471.25px;
+	height: 31.25px;
+	color: rgba(127,94,228,1.00);
+	font-family: Montserrat;
+	font-size: 22.5px;
+	font-weight: 600;
+	line-height: 31.25px;
+}
+.HomeScreenshot_HomeScreenshot .Pckdcomeswithallthefeaturesequallyavailableoneachdevice {
+	position: absolute;
+	left: 112.5px;
+	top: 1861.25px;
+	width: 471.25px;
+	height: 62.5px;
+	color: rgba(0,0,0,0.60);
+	font-family: Montserrat;
+	font-size: 22.5px;
+	font-weight: 500;
+	line-height: 31.25px;
+}
+.HomeScreenshot_HomeScreenshot .EveryonelovestheeasytouseandcompletelyopensourceLinkshortenr {
+	position: absolute;
+	left: 112.5px;
+	top: 2638.75px;
+	width: 471.25px;
+	height: 62.5px;
+	color: rgba(0,0,0,0.60);
+	font-family: Montserrat;
+	font-size: 22.5px;
+	font-weight: 400;
+	line-height: 31.25px;
+}
+.HomeScreenshot_HomeScreenshot .Navbar {
+	position: absolute;
+	left: 62.5%;
+	top: 93.75px;
+	transform: translate(-50%, 0);
+	width: 1225px;
+	height: 75px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame3 {
+	position: relative;
+	flex: none;
+	margin-right: 555px;
+	width: 198.75px;
+	height: 75px;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame3 .Frame2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75px;
+	height: 75px;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame3 .Frame2 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75px;
+	height: 75px;
+	background: rgba(127,94,228,1.00);
+	border-radius: 15px;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame3 .Frame2 .icons8link1 {
+	position: absolute;
+	left: 18.75px;
+	top: 18.75px;
+	width: 37.5px;
+	height: 37.5px;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame3 .Frame2 .icons8link1 .Vector_4 {
+	position: absolute;
+	left: 13.649978637695312px;
+	top: 0.2240753173828125px;
+	width: 63.00771077473958%;
+	height: 67.73325602213541%;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame3 .Frame2 .icons8link1 .Vector_5 {
+	position: absolute;
+	left: 0.21923065185546875px;
+	top: 11.875953674316406px;
+	width: 63.01391601562501%;
+	height: 67.73447672526042%;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame3 .PatiURLShortener {
+	position: absolute;
+	left: 102.5px;
+	top: 15.625px;
+	width: 352.5px;
+	height: 43.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 36.214284896850586px;
+	font-weight: 700;
+	line-height: 44.145212173461914px;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame4 {
+	position: relative;
+	flex: none;
+	margin-right: 555px;
+	width: 471.25px;
+	height: 62.5px;
+	display: flex;
+	padding-top: 12.5px;
+	padding-right: 12.5px;
+	padding-bottom: 12.5px;
+	padding-left: 12.5px;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame4 .Frame6_1 {
+	position: relative;
+	flex: none;
+	width: 132.5px;
+	height: 50px;
+	display: flex;
+	padding-top: 5px;
+	padding-right: 37.5px;
+	padding-bottom: 5px;
+	padding-left: 37.5px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(127,94,228,1.00);
+	border-radius: 15px;
+}
+.HomeScreenshot_HomeScreenshot .Navbar .Frame4 .Frame6_1 .About {
+	position: relative;
+	flex: none;
+	margin-right: 88.75px;
+	width: 71.25px;
+	height: 27.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 22.5px;
+	font-weight: 500;
+	line-height: 27.427499294281006px;
+}
